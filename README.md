@@ -1,5 +1,5 @@
 # java.demo
-class demo.java
+class java.demo
 {
     public static void main(String[] args)
     {
